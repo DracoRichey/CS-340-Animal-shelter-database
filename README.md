@@ -1,1 +1,11 @@
 # CS-340-Animal-shelter-database
+Reflection
+
+How do you write programs that are maintainable, readable, and adaptable?
+When writing programs, I focus on clear structure, consistent naming, and modular design so that the code is easy to understand and extend in the future. For example, in the CRUD Python module from Project One, I separated each function into distinct methods for creating, reading, updating, and deleting records. This approach made the code reusable and adaptable when I connected it to the dashboard in Project Two. One major advantage of this method is that it allows changes in the database logic without altering the dashboard code. In the future, I could use this same CRUD module in different projects that require database interaction, simply by adjusting the configuration to point to a new database or collection.
+
+How do you approach a problem as a computer scientist?
+I approach problems by first analyzing requirements and breaking them down into smaller, manageable tasks. For the Grazioso Salvare project, I examined the needs of both the database and the dashboard and then mapped features to specific database queries and visual outputs. Compared to earlier assignments, this project required a stronger focus on client needs and translating those into technical solutions rather than just completing isolated coding exercises. In future projects, I would continue using this approach by starting with the client’s goals, designing the database schema around those needs, and then building modular tools like CRUD operations to support flexibility and scalability.
+
+What do computer scientists do, and why does it matter?
+Computer scientists solve problems by designing systems that manage data and automate processes in ways that help organizations achieve their goals more effectively. In a project like Grazioso Salvare, the work matters because a well-designed database and dashboard can directly support the mission of saving and training rescue dogs. By making data easier to access, filter, and visualize, the company can identify the right animals more quickly and make better-informed decisions. This demonstrates how computer science skills translate into meaningful tools that improve efficiency, accuracy, and real-world impact.
